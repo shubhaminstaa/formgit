@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+main{
+    background-color: #d4e6fe;
+}
+.formsection{
+    width: 700px;
+    height: auto;
+    background-color: white;
+    padding: 30px !important;
+}
+form{
+    margin: 30px;
+}
+
+form .container-fluid input{
+    background-color: #e8e9fe;
+}
+
+form .container-fluid textarea{
+    background-color: #a4b2fd;
+}
+
